@@ -1,0 +1,6 @@
+{
+    "env": {
+        "JWT_Token": "Long_String_Please_Dont_Be_Short",
+        "MONGO_ATLAS": "enqzElyXMVy6KYJY"
+    }
+}
